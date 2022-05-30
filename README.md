@@ -5,11 +5,15 @@ The aim of this project is to collect user’s login credentials and store it sa
 ## TOOLS AND TECHNOLOGIES 
 
 •	A C++ Compiler
+
 •	VS Code Editor
 
 ## Installation 
 
 • Download this repo, open the directory in terminal.
+
 • Run the command: 
+
     1. "g++ islab.cpp" (without quotes)
+    
     2. "./a.out" (without quotes)
